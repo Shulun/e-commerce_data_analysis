@@ -1,7 +1,7 @@
 # e-commerce_data_analysis
 
 ## 淘宝用户行为数据
-利用淘宝的电商数据，包括用户行为信息和商品类目信息，使用Pandas和MySQL来进行场景归因，数据分析和业务优化。
+利用淘宝的电商数据，包括用户行为信息和商品类目信息，使用Pandas、MySQL，漏斗分析和RFM模型来进行场景归因，数据分析和业务优化。
 
 ### PV/UV 随日期变化趋势
 ![PV/UV 随日期变化趋势](https://cdn.jsdelivr.net/gh/shulun/cdn/e-commerce/taobao_user_behavior_EDA_46_0.png)
