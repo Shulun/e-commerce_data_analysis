@@ -19,7 +19,7 @@
 ![不重复用户漏斗](https://cdn.jsdelivr.net/gh/shulun/cdn/e-commerce/funnel2.png)
 
 ## 英国电商交易数据
-利用英国电商订单数据，包括订单号、订单时间、数量和单价和客户ID，使用SparkSQL/API和Pareto/NBD、BG/NBD和GammaGamma模型来预测客户生命值和客户CLV。
+利用英国电商订单数据，包括订单号、订单时间、数量、单价和客户ID，使用SparkSQL/API和Pareto/NBD、BG/NBD和GammaGamma模型来预测客户生命值和客户CLV。
 
 ### BG/NBD模型评估
 ![BG/NBD模型评估](https://cdn.jsdelivr.net/gh/shulun/cdn@2.3/e-commerce/bgnbd_model_eval.png)
@@ -30,7 +30,7 @@
 ### 客户存活概率
 ![客户存活概率](https://cdn.jsdelivr.net/gh/shulun/cdn/e-commerce/probability_alive.png)
 
-### 接下来30天客户下单概率
+### 接下来30天客户下单数量
 ![接下来30天客户购买概率](https://cdn.jsdelivr.net/gh/shulun/cdn/e-commerce/purchases_next30days.png)
 
 ### 客户接下来30天的下单数量
